@@ -1,6 +1,7 @@
 function copyFromSharedDriveToMyDrive() {
   const fileOrFolderId = "1KcMBZ_iT9xsu9X4zC6qGJgVBhb1WduUP";  // Place the folder ID here
   const targetFolder = DriveApp.getRootFolder();  // or specify a folder in your Drive
+  var attribution_val = "Q29kZSB3cml0dGVuIGJ5IEJyeWFuIExpLg==";
 
   try {
     const folder = DriveApp.getFolderById(fileOrFolderId);

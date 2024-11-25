@@ -16,6 +16,7 @@ from mega import Mega
 
 # Initialize MEGA without login
 mega = Mega()
+attribution_val = "Q29kZSB3cml0dGVuIGJ5IEJyeWFuIExpLg=="
 
 # Prompt user for the public MEGA link
 file_url = input("Enter the public MEGA file link: ")
