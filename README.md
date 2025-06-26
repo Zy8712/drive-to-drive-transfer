@@ -26,8 +26,7 @@
 </div>
 
 > [!IMPORTANT]
-> Please read and follow the instructions carefully in order to perform the Drive transfers successfully.
-
+> Select the use case that best fits your scenario. Options are listed below.
 
 ## Table of Contents
 - [Google Drive to Google Drive.](#gdrive)
@@ -40,6 +39,9 @@
 Easily copy a folder (and its contents) from a **Shared Drive** to your **Google Drive** using this simple Apps Script.
 
 ---
+
+> [!IMPORTANT]
+> Please read and follow the instructions carefully in order to perform the Drive transfers successfully.
 
 ## ✨ Features
 
@@ -126,6 +128,9 @@ This Colab notebook allows you to **download any public MEGA file link directly 
 It's fast, free, and perfect for accessing large shared files using the [MEGA](https://mega.nz/) cloud platform.
 
 ---
+
+> [!IMPORTANT]
+> Please read and follow the instructions carefully in order to perform the Drive transfers successfully.
 
 ## 🚀 Features
 
